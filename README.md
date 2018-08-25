@@ -2,7 +2,7 @@
 
 Model-View-Presenter-Delegate
 
-![image](https://raw.githubusercontent.com/E7du/mvpd/master/mvpd.jpg)
+![image](https://raw.githubusercontent.com/E7du/mvpd-ios/master/mvpd.jpg)
 
 参考借鉴 Android 的 MVP 思想设计[具体看这里](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 
